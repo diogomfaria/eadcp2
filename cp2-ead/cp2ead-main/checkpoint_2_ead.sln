@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "checkpoint_2_ead", "checkpoint_2_ead.csproj", "{EC5DD222-5506-4124-AF98-C935BAA1D434}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC5DD222-5506-4124-AF98-C935BAA1D434}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC5DD222-5506-4124-AF98-C935BAA1D434}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC5DD222-5506-4124-AF98-C935BAA1D434}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC5DD222-5506-4124-AF98-C935BAA1D434}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C531AE4A-43A7-4518-A19A-5A33D76CD1CF}
+	EndGlobalSection
+EndGlobal

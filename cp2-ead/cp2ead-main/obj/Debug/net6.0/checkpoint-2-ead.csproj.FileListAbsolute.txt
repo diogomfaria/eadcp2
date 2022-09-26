@@ -1,0 +1,15 @@
+D:\daniel\checkpoint-2-ead\obj\Debug\net6.0\checkpoint-2-ead.csproj.AssemblyReference.cache
+D:\daniel\checkpoint-2-ead\obj\Debug\net6.0\checkpoint-2-ead.GeneratedMSBuildEditorConfig.editorconfig
+D:\daniel\checkpoint-2-ead\obj\Debug\net6.0\checkpoint-2-ead.AssemblyInfoInputs.cache
+D:\daniel\checkpoint-2-ead\obj\Debug\net6.0\checkpoint-2-ead.AssemblyInfo.cs
+D:\daniel\checkpoint-2-ead\obj\Debug\net6.0\checkpoint-2-ead.csproj.CoreCompileInputs.cache
+D:\daniel\checkpoint-2-ead\bin\Debug\net6.0\checkpoint-2-ead.exe
+D:\daniel\checkpoint-2-ead\bin\Debug\net6.0\checkpoint-2-ead.deps.json
+D:\daniel\checkpoint-2-ead\bin\Debug\net6.0\checkpoint-2-ead.runtimeconfig.json
+D:\daniel\checkpoint-2-ead\bin\Debug\net6.0\checkpoint-2-ead.dll
+D:\daniel\checkpoint-2-ead\bin\Debug\net6.0\checkpoint-2-ead.pdb
+D:\daniel\checkpoint-2-ead\obj\Debug\net6.0\checkpoint-2-ead.dll
+D:\daniel\checkpoint-2-ead\obj\Debug\net6.0\refint\checkpoint-2-ead.dll
+D:\daniel\checkpoint-2-ead\obj\Debug\net6.0\checkpoint-2-ead.pdb
+D:\daniel\checkpoint-2-ead\obj\Debug\net6.0\checkpoint-2-ead.genruntimeconfig.cache
+D:\daniel\checkpoint-2-ead\obj\Debug\net6.0\ref\checkpoint-2-ead.dll
